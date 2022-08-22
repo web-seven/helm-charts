@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  maildev:
+  - apiVersion: v2
+    appVersion: 2.0.5
+    created: "2022-08-22T10:00:33.480167315Z"
+    description: A Helm chart for Maildev
+    digest: cf45f5bab6fb99b982a5058e17863d7729904c98960c88e965b10f357e69729f
+    name: maildev
+    type: application
+    urls:
+    - https://github.com/web-seven/helm-charts/releases/download/maildev-0.1.2/maildev-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-08-22T10:00:33.480171515Z"
